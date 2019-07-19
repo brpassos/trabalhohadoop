@@ -1,4 +1,4 @@
-# Analise de Sendimento com Ecossistema Hadoop
+# Analise de Sentimento com Ecossistema Hadoop
 
 ## Escopo
 
