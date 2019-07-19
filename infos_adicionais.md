@@ -12,6 +12,9 @@
 
     sudo pip3 install -U textblob
     sudo python3 -m textblob.download_corpora
+    git clone https://github.com/BoseCorp/py-googletrans.git
+    cd ./py-googletrans
+    python setup.py install
     
 #### Configurando Spark para usar o python3
 
