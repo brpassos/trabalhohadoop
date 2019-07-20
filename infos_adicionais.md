@@ -8,6 +8,10 @@
     sudo /usr/bin/python3.4 get-pip.py
     python3 --version
 
+**Corrigindo problema de SSL error caso ocorra com curl**
+
+    sudo yum update -y nss curl
+
 #### Instalando bibliotecas
 
     sudo pip3 install -U textblob
