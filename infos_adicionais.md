@@ -19,6 +19,7 @@
     git clone https://github.com/BoseCorp/py-googletrans.git
     cd ./py-googletrans
     python3 setup.py install
+    sudo pip3 install unidecode
     
 #### Configurando Spark para usar o python3
 
