@@ -17,7 +17,7 @@ Qual o sentimento das pessoas em relação ao Governo Bolsonaro?
     - Hive
     - Spark
         - python 3.4
-        - Bibliotecas Adicionais: [TextBlob](https://github.com/sloria/TextBlob/) 
+        - Bibliotecas Adicionais: unidecode, [TextBlob](https://github.com/sloria/TextBlob/) 
         e [GoogleTranslator](https://github.com/BoseCorp/py-googletrans)
         
     - (colocar aqui o software que vai gerar os gráficos)
