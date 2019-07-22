@@ -24,7 +24,7 @@ tweetTexts = tweets
 #tweetTexts = tweets.map(lambda p: "text: " + p.text)
 
 #deve ser substituido pela qtd de tweetTexts. Foi colocado assim apenas para testes.
-qtd = 100
+qtd = 200
 qtdRows = len(tweetTexts.collect())
 
 print("##########################")
@@ -46,9 +46,10 @@ total = 0
 
 dataTranslated = []
 
+
 for tweet in tweetTexts.collect():
 
-    time.sleep(2)
+
 
     #print(tweet.id)
     
@@ -61,9 +62,12 @@ for tweet in tweetTexts.collect():
 
     if not (tweet.id in traduzidos):
 
+        #time.sleep(2)
+
         total += 1
 
         print(tweet.id)
+        print(total)
 
         traduzidos.append(tweet.id)
 
@@ -75,8 +79,10 @@ for tweet in tweetTexts.collect():
 
         dataTranslated.append({'id': tweet.id, 'text': textEN.text})
 
+        #print("=====================================================")
+
  
-    print("=====================================================")
+
 
 sql = SQLContext(sc)
 
