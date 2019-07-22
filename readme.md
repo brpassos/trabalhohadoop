@@ -47,4 +47,4 @@ Executado script python para analise de sentimento.
 
 [retorno.csv](retorno.csv)
 
-**gráfico**
+[Gráficos](https://app.powerbi.com/view?r=eyJrIjoiMDkyNTlmNWMtNDI0Ni00ZTc0LTkzZGItMGVjOTQ3MTExZTA1IiwidCI6IjczNWQ4NTMwLTNkY2EtNGVmNy1iZTFkLWY1N2I4MGYyNmYzZSJ9)
