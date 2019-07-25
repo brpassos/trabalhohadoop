@@ -20,7 +20,7 @@ Qual o sentimento das pessoas em relação ao Governo Bolsonaro?
         - Bibliotecas Adicionais: unidecode, [TextBlob](https://github.com/sloria/TextBlob/) 
         e [GoogleTranslator](https://github.com/BoseCorp/py-googletrans)
         
-    - PowerBI
+    - Power BI
     
 [Informações Adicionais](infos_adicionais.md)
     
