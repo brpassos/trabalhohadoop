@@ -1,4 +1,4 @@
-nm_label	nu_resultado
-Porcentagem Positiva	98
-Porcentagem Negativa	47
-Porcentagem Nula	36
+nm_label,nu_resultado
+Porcentagem Positiva,0.35
+Porcentagem Negativa,0.18
+Porcentagem Nula,0.47
