@@ -22,7 +22,6 @@ tweets = sqlCtx.sql("select id, text from trabalho_incremental_tweets")
 tweetTexts = tweets
 #tweetTexts = tweets.map(lambda p: "text: " + p.text)
 
-#deve ser substituido pela qtd de tweetTexts. Foi colocado assim apenas para testes.
 
 #coloque um valor caso deseje limitar o número de traduções
 qtd = len(tweetTexts.collect())
