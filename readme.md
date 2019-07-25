@@ -42,7 +42,7 @@ No script de analise de sentimento é utilizado a lib TextBlob. Em função dest
 
 Através do script [traduzir.py](traduzir.py) os tweets são lidos da tabela trabalho_incremental_tweets, traduzidos e gravados no HDFS para então serem carregados na tabela trabalho_translated_tweets.
 
-Executado script python para analise de sentimento. 
+Executando script python para analise de sentimento. 
 
 O script [analisar-sentimento.py](analisar-sentimento.py) lê da tabela trabalho_translated_tweets, utiliza a biblioteca TextBlob para realizar a analize de sentinmento e grava o resultado em arquivos csv.
     
