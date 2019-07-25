@@ -54,11 +54,11 @@ O script [analisar-sentimento.py](analisar-sentimento.py) lê da tabela trabalho
 [Gráfico 2](https://app.powerbi.com/view?r=eyJrIjoiNDI3MmEyNDUtMGI3MC00ZmQwLWI1ZDMtOWM3ZmYzYWY4YWNhIiwidCI6IjczNWQ4NTMwLTNkY2EtNGVmNy1iZTFkLWY1N2I4MGYyNmYzZSJ9)<br>
 [Gráfico 3](https://app.powerbi.com/view?r=eyJrIjoiNWI3YmYzNDktYjA0OS00MWQ2LWJlN2UtNDM2NGUyMjdjMDc0IiwidCI6IjczNWQ4NTMwLTNkY2EtNGVmNy1iZTFkLWY1N2I4MGYyNmYzZSJ9)
 
-**Gráficos usando o LibreOffice Calc**
+**Gráficos usando o LibreOffice**
 
-[retorno_gr1.csv](retorno_gr1.csv)
-[retorno_gr2.csv](retorno_gr2.csv)
+[retorno_gr1](retorno_gr1)
+[retorno_gr2](retorno_gr2)
 
-[mskgrafico.ods](mskgrafico.ods)
+[mskgrafico](mskgrafico)
 
 
