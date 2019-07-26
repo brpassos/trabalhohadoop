@@ -26,7 +26,7 @@ Qual o sentimento das pessoas em relação ao Governo Bolsonaro?
     
 ### Flume
 
-O flume foi utilizado para pegar os dados do twitter e gravar no hdfs. Os tweets foram capturados no dia **20/07(sábado)**.
+O flume foi utilizado para pegar os dados do twitter e gravar no hdfs. Os tweets foram capturados no dia **20/07/2019 (sábado)**.
 
 [flume_twitter_governo_bolsonaro.conf](flume_twitter_governo_bolsonaro.conf)
  
